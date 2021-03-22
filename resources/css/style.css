@@ -1,1 +1,19 @@
-#title
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 80px;
+}
+
+.download {
+    color:blue;
+    font-size: 20px;
+}
+
+.footer {
+    color: white;
+    text-align: right;
+}
